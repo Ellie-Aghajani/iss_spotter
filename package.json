@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Ellie-Aghajani/iss_spotter/issues"
   },
-  "homepage": "https://github.com/Ellie-Aghajani/iss_spotter#readme"
+  "homepage": "https://github.com/Ellie-Aghajani/iss_spotter#readme",
+  "dependencies": {
+    "request-promise-native": "^1.0.9"
+  }
 }
